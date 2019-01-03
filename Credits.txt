@@ -1,0 +1,7 @@
+FACE DETECT CREDITS:
+
+Code written and created by Shantnu Tiwari. 
+
+Source: https://realpython.com/face-detection-in-python-using-a-webcam/
+
+Edited for Final Project by Adam Steevens.
